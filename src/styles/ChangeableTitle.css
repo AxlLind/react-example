@@ -1,0 +1,21 @@
+.Title {
+    font-size: 2em;
+    padding: 2px;
+    cursor: pointer;
+}
+
+.Title:hover {
+    opacity: 0.5;
+}
+
+.TitleChanger {
+    font-family: 'Open Sans Light';
+    font-size: 2em;
+    text-align: center;
+    border-radius: 5px;
+    border: 1px solid #A9A9A9;
+}
+
+.TitleChanger:focus {
+    box-shadow: 0 0 3pt 2pt #A9A9A9;
+}

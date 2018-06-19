@@ -17,8 +17,12 @@
   },
   "dependencies": {
     "babel-preset-stage-1": "^6.1.18",
+    "css-loader": "^0.28.11",
+    "lodash": "^4.17.10",
     "react": "15.4.0",
     "react-d3": "^0.4.0",
-    "react-dom": "^15.5.4"
+    "react-dom": "^15.5.4",
+    "react-modal": "^3.4.5",
+    "style-loader": "^0.21.0"
   }
 }

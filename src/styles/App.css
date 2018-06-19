@@ -1,0 +1,16 @@
+html body {
+    background-color: #f0f3f6;
+}
+
+.AppContainer {
+    display: grid;
+    justify-content: center;
+    font-family: 'Open Sans Light', sans-serif;
+    text-align: center;
+}
+
+.AppTitle {
+    color: #222233;
+    font-size: 4em;
+    padding: 40px;
+}

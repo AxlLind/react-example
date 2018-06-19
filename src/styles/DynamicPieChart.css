@@ -1,0 +1,20 @@
+.ChartContainer {
+    padding: 10px;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    box-shadow: 0 0 10px #A9A9A9;
+}
+
+.ChartErrorText {
+    color: #ff6666;
+    padding: 10px;
+    font-size: 1.5em;
+}
+
+.ChartTitle {
+    font-size: 2em;
+}
+
+.PieChart {
+    font-size: 1.2em;
+}
